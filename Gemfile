@@ -32,7 +32,7 @@ gem 'bootstrap-sass', '~> 3.3.4'
 gem 'simple_form'
 # Use unicorn as the app server
 # gem 'unicorn'
-
+gem 'carrierwave'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
